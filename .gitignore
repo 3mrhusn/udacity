@@ -25,7 +25,7 @@ yarn-error.log*
 
 ###### reactnd-contacts-server
 www
-Archive.zip
+**/Archive.zip
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
